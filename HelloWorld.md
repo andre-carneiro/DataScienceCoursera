@@ -9,4 +9,4 @@ output: html_document
 
 ## R Markdown
 
-## This ia a markdown file
+## This is a markdown file
